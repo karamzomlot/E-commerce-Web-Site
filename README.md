@@ -9,4 +9,3 @@ this is my first project in a web design
 
 - html
 - css
-- js
